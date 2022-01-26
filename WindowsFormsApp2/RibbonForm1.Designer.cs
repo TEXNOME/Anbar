@@ -382,7 +382,7 @@ namespace WindowsFormsApp2
             // 
             this.barButtonItem24.Caption = "TƏNZİMLƏMƏ";
             this.barButtonItem24.Id = 29;
-            this.barButtonItem24.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonItem24.ImageOptions.SvgImage")));
+            this.barButtonItem24.ImageOptions.SvgImage = global::WindowsFormsApp2.Properties.Resources.viewsettings;
             this.barButtonItem24.Name = "barButtonItem24";
             this.barButtonItem24.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem24_ItemClick);
             // 

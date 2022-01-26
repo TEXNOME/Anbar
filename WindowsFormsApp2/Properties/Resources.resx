@@ -130,8 +130,8 @@
   <data name="bo_user1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bo_user1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="cancel_32x321" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cancel_32x321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="financial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\financial.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="properties" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\properties.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
@@ -148,14 +148,14 @@
   <data name="usergroup_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\usergroup_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="delete1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\delete1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
-  </data>
   <data name="weightedpies" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\weightedpies.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="del3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\del3.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="business_money" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\business_money.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="actions_add" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\actions_add.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
@@ -166,14 +166,11 @@
   <data name="bo_order_item" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bo_order_item.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="bo_product_group" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bo_product_group.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
-  </data>
   <data name="bo_product" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bo_product.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="del" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\del.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  <data name="barcodeshowtext" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\barcodeshowtext.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="changeview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\changeview1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
@@ -187,8 +184,11 @@
   <data name="importmap" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\importmap.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="barcodeshowtext" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\barcodeshowtext.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  <data name="del" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\del.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="delete1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="bo_customer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bo_customer.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
@@ -202,23 +202,20 @@
   <data name="pivottablegroupselection" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pivottablegroupselection.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="business_money" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\business_money.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  <data name="cancel_32x321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancel_32x321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="removedataitems" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\removedataitems.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="financial" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\financial.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  <data name="bo_product_group" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bo_product_group.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="bo_mydetails" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bo_mydetails.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="changeview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\changeview.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
-  </data>
-  <data name="bo_address" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bo_address.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
   <data name="delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\delete.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
@@ -238,6 +235,12 @@
   <data name="clearall1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\clearall1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
+  <data name="bo_mydetails1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bo_mydetails1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="bo_address" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bo_address.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
   <data name="selectdatamember" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\selectdatamember.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
@@ -247,7 +250,7 @@
   <data name="shopping_store" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\shopping_store.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
-  <data name="bo_mydetails1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bo_mydetails1.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  <data name="viewsettings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\viewsettings.svg;DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
   </data>
 </root>

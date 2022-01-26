@@ -493,6 +493,16 @@ namespace WindowsFormsApp2.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа DevExpress.Utils.Svg.SvgImage.
         /// </summary>
+        internal static DevExpress.Utils.Svg.SvgImage viewsettings {
+            get {
+                object obj = ResourceManager.GetObject("viewsettings", resourceCulture);
+                return ((DevExpress.Utils.Svg.SvgImage)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа DevExpress.Utils.Svg.SvgImage.
+        /// </summary>
         internal static DevExpress.Utils.Svg.SvgImage weightedpies {
             get {
                 object obj = ResourceManager.GetObject("weightedpies", resourceCulture);
