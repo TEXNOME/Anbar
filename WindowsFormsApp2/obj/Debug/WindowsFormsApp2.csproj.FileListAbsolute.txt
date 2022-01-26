@@ -1,0 +1,1326 @@
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERILER.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\Users\natig\OneDrive\Masaüstü\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERILER.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\170120022\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\problemler-19.01 (4)\11172022\proyekt11.01.2022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MÜŞTƏRİLƏR.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MÜŞTƏRİLƏR.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MÜŞTƏRİLƏR.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\21012022\WindowsFormsApp24\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_AXTAR.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI_LAYOUT.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MÜŞTƏRİLƏR.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_AXTAR.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\admin\Desktop\proyekt\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALISI_LAYOUT.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI_LAYOUT.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALISI_LAYOUT.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MÜŞTƏRİLƏR.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_AXTAR.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ALINAN_MEHSULLAR.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbar.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_ANBARA_BAXIS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ANBARDAN_OBYEKTE.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anbarda_obyekte_gonderilenler.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.avtorizasiya.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ENDIRIM_POS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATISI_LAYOUT.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_GAYTARMA.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAYTARMA_AXTARİS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kart.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriyalar.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kategoriya_axtar.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Magaza.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mehsul_adi_axtar.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALISI_LAYOUT.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_ALİSİ.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MEHSUL_GAYTARMA.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MÜŞTƏRİLƏR.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.bank.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_AXTAR.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MUSTERI_SIYAHISI.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nagd_kart.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BANK_ODENİS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OBYEKTDEN_ANBARA.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Obyektden_anbara_gonderilenler.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_GAYTARMA_BAXIS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.POS_MEHSUL_AXTARIS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.anaEkranOLD.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm2.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GAIME_SATIS_DETAILS.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SATIS_HESABATI.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SearchTechizatci.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENILENLER.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHIZATCI_ODENISI.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TECHİZATCİ.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TENZIMLEME.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserQeydiyyat.resources
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\admin\Desktop\proyekt\project inteko\Новая папка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RibbonForm1.resources
