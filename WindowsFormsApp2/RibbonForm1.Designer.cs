@@ -148,7 +148,7 @@ namespace WindowsFormsApp2
             this.barButtonItem44});
             this.ribbon.Location = new System.Drawing.Point(0, 0);
             this.ribbon.Margin = new System.Windows.Forms.Padding(4);
-            this.ribbon.MaxItemId = 53;
+            this.ribbon.MaxItemId = 54;
             this.ribbon.Name = "ribbon";
             this.ribbon.OptionsMenuMinWidth = 495;
             this.ribbon.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
@@ -187,7 +187,11 @@ namespace WindowsFormsApp2
             this.barButtonItem4.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonItem4.ImageOptions.SvgImage")));
             this.barButtonItem4.Name = "barButtonItem4";
             this.barButtonItem4.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem4_ItemClick);
-           
+            // 
+            // barButtonItem5
+            // 
+            this.barButtonItem5.Id = 53;
+            this.barButtonItem5.Name = "barButtonItem5";
             // 
             // barButtonItem6
             // 
@@ -525,7 +529,7 @@ namespace WindowsFormsApp2
             // 
             this.barButtonItem44.Caption = "QEYDIYYAT";
             this.barButtonItem44.Id = 52;
-            this.barButtonItem44.ImageOptions.SvgImage = global::WindowsFormsApp2.Properties.Resources.bo_user1;
+            this.barButtonItem44.ImageOptions.SvgImage = global::WindowsFormsApp2.Properties.Resources.bo_mydetails1;
             this.barButtonItem44.Name = "barButtonItem44";
             // 
             // ribbonPage1
@@ -576,7 +580,6 @@ namespace WindowsFormsApp2
             this.StatusBar = this.ribbonStatusBar;
             this.Text = "İnteko Anbar və Satış Proqramı";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-           // this.Load += new System.EventHandler(this.RibbonForm1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ribbon)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
